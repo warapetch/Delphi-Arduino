@@ -1,8 +1,8 @@
 # Delphi-Arduino
 ต้นฉบับ
-https://github.com/vladimirok5959/Delphi-Arduino
-Example for communicate Delphi with arduino via serial port (virtual COM port).
-Need to install COM port component first.
+https://github.com/vladimirok5959/Delphi-Arduino <br>
+Example for communicate Delphi with arduino via serial port (virtual COM port). <br>
+Need to install COM port component first. <br>
 
 # Delphi-Arduino
 update 26/11/2002 
