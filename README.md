@@ -27,16 +27,16 @@ https://github.com/CWBudde/ComPort-Library <br>
 ## เนื้อหา + คลิป บน ยูทูป
 🔷 วิดีโอ
 📌 แนะนำ เขียนโปรแกรมสั่ง ปิด-เปิดไฟ ที่บอร์ด Arduino <br>
-#EP1
-![cover](http://img.youtube.com/vi/bZ2gErVDES8/0.jpg)](https://www.youtube.com/watch?v=bZ2gErVDES8&ab_channel=HowToCode "Click to Play Video")
+#EP1<br>
+[![cover](http://img.youtube.com/vi/bZ2gErVDES8/0.jpg)](https://www.youtube.com/watch?v=bZ2gErVDES8&ab_channel=HowToCode "Click to Play Video")
 
 
-#EP2
-![cover](http://img.youtube.com/vi/hs5UHtR7Ax0/0.jpg)](https://www.youtube.com/watch?v=hs5UHtR7Ax0&ab_channel=HowToCode"Click to Play Video")
+#EP2<br>
+[![cover](http://img.youtube.com/vi/hs5UHtR7Ax0/0.jpg)](https://www.youtube.com/watch?v=hs5UHtR7Ax0&ab_channel=HowToCode"Click to Play Video")
 
 
-#EP3
-![cover](http://img.youtube.com/vi/VqsOTwXQly8/0.jpg)](https://www.youtube.com/watch?v=VqsOTwXQly8&ab_channel=HowToCode "Click to Play Video")
+#EP3<br>
+[![cover](http://img.youtube.com/vi/VqsOTwXQly8/0.jpg)](https://www.youtube.com/watch?v=VqsOTwXQly8&ab_channel=HowToCode "Click to Play Video")
 
  <br>
 🔷 FaceBook  \ <br>
