@@ -1,16 +1,12 @@
 # Delphi-Arduino
-ต้นฉบับ
-https://github.com/vladimirok5959/Delphi-Arduino <br>
+update 26/11/2002 <br>
+อัพเดต 26/11/2565 <br>
+ต้นฉบับ <br>
+[https://github.com/vladimirok5959/Delphi-Arduino](https://github.com/vladimirok5959/Delphi-Arduino)  
+ <br>
 Example for communicate Delphi with arduino via serial port (virtual COM port). <br>
-Need to install COM port component first. <br>
-
-# Delphi-Arduino
-update 26/11/2002 
-อัพเดต 26/11/2565
-
-Example for communicate Delphi with arduino via serial port (virtual COM port).
-ตัวอย่างการเขียนโปรแกรมเดลไฟ ทำงานกับ Arduino
-
+ตัวอย่างการเขียนโปรแกรมเดลไฟ ทำงานกับ Arduino <br>
+ <br>
 🔷 ตัวอย่าง โค้ด  <br>
 ปรับหน้าตาและวิธีการทำงาน เพื่อให้ทำงานได้ราบรื่นขึ้น <br>
 📌 1. Add package for Delphi 11.2 <br>
@@ -20,27 +16,27 @@ Example for communicate Delphi with arduino via serial port (virtual COM port).
 📌 3. update  Arduino code <br>
 https://github.com/warapetch/Delphi-Arduino/blob/master/Arduino/SerialDelphi-update.ino <br>
 
- <br>
 
+ <br>
 🔷 Need to install COM port component first. <br>
 คอมโพเนนท์ ให้ของ CWBudde  <br>
 https://github.com/CWBudde/ComPort-Library <br>
 
 
 
-## เนื้อหา + คลิป บน ยูทูป <br>
-🔷 วิดีโอ <br>
+## เนื้อหา + คลิป บน ยูทูป
+🔷 วิดีโอ
 📌 แนะนำ เขียนโปรแกรมสั่ง ปิด-เปิดไฟ ที่บอร์ด Arduino <br>
-#EP1 <br>
-[![cover](http://img.youtube.com/vi/bZ2gErVDES8/0.jpg)](https://www.youtube.com/watch?v=bZ2gErVDES8&ab_channel=HowToCode "Click to Play Video")
+#EP1
+![cover](http://img.youtube.com/vi/bZ2gErVDES8/0.jpg)](https://www.youtube.com/watch?v=bZ2gErVDES8&ab_channel=HowToCode "Click to Play Video")
 
- <br>
-#EP2 <br>
-[![cover](http://img.youtube.com/vi/hs5UHtR7Ax0/0.jpg)](https://www.youtube.com/watch?v=hs5UHtR7Ax0&ab_channel=HowToCode"Click to Play Video")
 
- <br>
-#EP3 <br>
-[![cover](http://img.youtube.com/vi/VqsOTwXQly8/0.jpg)](https://www.youtube.com/watch?v=VqsOTwXQly8&ab_channel=HowToCode "Click to Play Video")
+#EP2
+![cover](http://img.youtube.com/vi/hs5UHtR7Ax0/0.jpg)](https://www.youtube.com/watch?v=hs5UHtR7Ax0&ab_channel=HowToCode"Click to Play Video")
+
+
+#EP3
+![cover](http://img.youtube.com/vi/VqsOTwXQly8/0.jpg)](https://www.youtube.com/watch?v=VqsOTwXQly8&ab_channel=HowToCode "Click to Play Video")
 
  <br>
 🔷 FaceBook  \ <br>
